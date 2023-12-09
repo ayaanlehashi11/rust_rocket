@@ -1,6 +1,6 @@
 [package]
-authors = ["Foo <foo@bar.com>"]
-name = "rocket-blog"
+authors = ["ayaanle <ayaanlehashi540@gmail.com>"]
+name = "rust_rocket"
 version = "0.1.0"
 
 [dependencies]
